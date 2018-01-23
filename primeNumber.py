@@ -3,8 +3,8 @@ def primeNumber(num):
 
         for i in range(2, int(num[j] ** 0.5) + 1):
             if num[j] % i == 0:
-                print False
-                print num[j]
+                #print False
+                #print num[j]
 
         print True
         print num[j]
