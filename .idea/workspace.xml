@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df613874-14ec-475c-b7d9-5b28319800a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interval.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/largestNumberArray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/merge_intervals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addTwoNumbersLinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anagramHR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anagramsHashTable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/implementHashTable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/implementLinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorderTraversalTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linkedListCycle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linkedListInsertionSort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linkedListUnsortedDuplicateRemoval.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mergeTwoSortedLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reverseListInK.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/substringConcatenationHashing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swapPairsLinkedLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zigZagLevelOrder.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +37,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arrangingCoins.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="arrangingCoins.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arrangingCoins.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anagramsHashTable.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anagramsHashTable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anagramHR.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anagramHR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zigZagLevelOrder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zigZagLevelOrder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteDuplicatesLinkedListII.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deleteDuplicatesLinkedListII.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,61 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="substring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="shortestPalindrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shortestPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="0" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="justifiedText.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/justifiedText.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="repeatedAndMissingNumber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/repeatedAndMissingNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flip.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maxNonNegativeSubarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maxNonNegativeSubarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,6 +190,8 @@
         <option value="$PROJECT_DIR$/flip.py" />
         <option value="$PROJECT_DIR$/maxNonNegativeSubarray.py" />
         <option value="$PROJECT_DIR$/findTheWinner.py" />
+        <option value="$PROJECT_DIR$/anagramHR.py" />
+        <option value="$PROJECT_DIR$/zigZagLevelOrder.py" />
       </list>
     </option>
   </component>
@@ -235,7 +248,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.arrangingCoins">
+  <component name="RunManager" selected="Python.anagramHR">
+    <configuration name="anagramHR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ejemplos" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anagramHR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="anagramsHashTable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Ejemplos" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anagramsHashTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="arrangingCoins" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,54 +334,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="maxNonNegativeSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Ejemplos" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxNonNegativeSubarray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="shortestPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Ejemplos" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shortestPalindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.maxNonNegativeSubarray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.arrangingCoins" />
-      <item index="2" class="java.lang.String" itemvalue="Python.shortestPalindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Python.findTheWinner" />
-      <item index="4" class="java.lang.String" itemvalue="Python.braces" />
+      <item index="0" class="java.lang.String" itemvalue="Python.arrangingCoins" />
+      <item index="1" class="java.lang.String" itemvalue="Python.findTheWinner" />
+      <item index="2" class="java.lang.String" itemvalue="Python.braces" />
+      <item index="3" class="java.lang.String" itemvalue="Python.anagramsHashTable" />
+      <item index="4" class="java.lang.String" itemvalue="Python.anagramHR" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.arrangingCoins" />
-        <item index="1" class="java.lang.String" itemvalue="Python.braces" />
-        <item index="2" class="java.lang.String" itemvalue="Python.findTheWinner" />
-        <item index="3" class="java.lang.String" itemvalue="Python.shortestPalindrome" />
-        <item index="4" class="java.lang.String" itemvalue="Python.maxNonNegativeSubarray" />
+        <item index="0" class="java.lang.String" itemvalue="Python.anagramHR" />
+        <item index="1" class="java.lang.String" itemvalue="Python.anagramsHashTable" />
+        <item index="2" class="java.lang.String" itemvalue="Python.arrangingCoins" />
+        <item index="3" class="java.lang.String" itemvalue="Python.braces" />
+        <item index="4" class="java.lang.String" itemvalue="Python.findTheWinner" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +379,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39727464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39641657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -559,51 +572,20 @@
           <line>41</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anagramHR.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="119" />
+      <option name="time" value="120" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/isPermutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reversesString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slectionSort.py" />
     <entry file="file://$PROJECT_DIR$/isPermutation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -926,6 +908,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anagramsHashTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteDuplicatesLinkedListII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anagramHR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zigZagLevelOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
           <folding />
         </state>
       </provider>
