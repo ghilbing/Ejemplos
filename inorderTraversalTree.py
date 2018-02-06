@@ -23,3 +23,17 @@ class Solution:
                     stack.append((current.left, False))
 
         return result
+
+def inorderTraversalFastest(A):
+    stack = []
+    node = A
+    res = []
+    while len(stack) > or node is not None:
+        if node is not None:
+            stack.append(node)
+            node = node.left
+        else:
+            node = stack.pop()
+            res.append(node.val)
+            node = node.right
+    return res
