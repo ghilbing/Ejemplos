@@ -5,7 +5,7 @@ def permute(A):
     res = []
     for i in range(n):
         s = A[:i] + A[i+1:]
-        p = self.permute(s)
+        p = permute(s)
         for x in p:
             res.append(A[i:i+1] + x)
     return res
